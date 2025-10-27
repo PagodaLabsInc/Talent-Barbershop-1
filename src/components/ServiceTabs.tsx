@@ -41,7 +41,7 @@ export function ServiceTabs() {
       description: 'Classic haircut with clippers and scissors, includes neck shave.',
       price: '$40',
       duration: '45 min',
-      image: "/haircut.jpg"
+      image: "/regular haircut.png"
     }, {
       id: 'scissors',
       title: 'Classic Only Scissors',
@@ -69,7 +69,7 @@ export function ServiceTabs() {
       description: 'Gradual fade that leaves more length on the sides, or styled blow out.',
       price: '$45',
       duration: '45 min',
-      image: "/taper_fade.jpg"
+      image: "/taper fade.png"
     }, {
       id: 'mullet',
       title: 'Mullet',

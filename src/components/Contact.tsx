@@ -53,7 +53,7 @@ export function Contact() {
                     <p className="text-gray-600">
                       Friday - Saturday: 8am - 8pm
                     </p>
-                    <p className="text-gray-600">Sunday: 9am - 3pm</p>
+                    <p className="text-gray-600">Sunday: 9am - 5pm</p>
                   </div>
                 </div>
               </div>

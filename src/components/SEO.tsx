@@ -82,7 +82,7 @@ export function SEO({
                 "@type": "OpeningHoursSpecification",
                 "dayOfWeek": "Sunday",
                 "opens": "09:00",
-                "closes": "15:00"
+                "closes": "17:00"
               }
             ],
             "priceRange": "$$",
