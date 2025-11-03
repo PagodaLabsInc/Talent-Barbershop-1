@@ -55,7 +55,7 @@ export function ServiceTabs() {
       description: 'Haircut for children, includes a lollipop and special kid-friendly chair.',
       price: '$40',
       duration: '45 min',
-      image: "/kids_haircut1.jpg"
+      image: "/kidscut.png"
     }, {
       id: 'skin-fade',
       title: 'Skin Fade or Bald Fade',
