@@ -39,35 +39,35 @@ export function ServiceTabs() {
       id: 'regular',
       title: 'Regular Haircut',
       description: 'Classic haircut with clippers and scissors, includes neck shave.',
-      price: '$45',
+      price: '$40',
       duration: '45 min',
       image: "/regular haircut.png"
     }, {
       id: 'scissors',
       title: 'Classic Only Scissors',
       description: 'Traditional haircut using only scissors for a more textured look.',
-      price: '$45',
+      price: '$40',
       duration: '45 min',
       image: "/classic_scissors.jpg"
     }, {
       id: 'kids',
       title: 'Kids Haircut',
       description: 'Haircut for children, includes a lollipop and special kid-friendly chair.',
-      price: '$45',
+      price: '$40',
       duration: '45 min',
       image: "/kidscut.png"
     }, {
       id: 'skin-fade',
       title: 'Skin Fade or Bald Fade',
       description: 'Precision fade that gradually blends to skin, for a clean, modern look.',
-      price: '$50',
+      price: '$45',
       duration: '50 min',
       image: "/skin_fade.jpg"
     }, {
       id: 'taper-fade',
       title: 'Taper Fade or Blow Out',
       description: 'Gradual fade that leaves more length on the sides, or styled blow out.',
-      price: '$50',
+      price: '$45',
       duration: '45 min',
       image: "/taper fade.png"
     }, {
@@ -166,6 +166,11 @@ export function ServiceTabs() {
             We offer a range of professional barbering services to keep you
             looking your best.
           </p>
+          <div className="mt-4 mb-2 max-w-2xl mx-auto">
+            <p className="text-sm text-gray-700">
+              <strong>Note:</strong> Walk-ins for haircuts are $45 and tapers are $50.
+            </p>
+          </div>
           <div className="w-24 h-1 bg-[#C0111F] mx-auto mt-4"></div>
         </div>
 
