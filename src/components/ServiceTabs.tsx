@@ -229,7 +229,10 @@ export function ServiceTabs() {
                   <p className="text-gray-600">{service.description}</p>
                 </div>
                 <div className="px-6 pb-4 mt-auto">
-                  <BookNow className="block w-full bg-[#003278] text-white text-center py-2 rounded-md hover:bg-[#002255] transition-colors duration-300" />
+                  <BookNow 
+                    className="block w-full bg-[#003278] text-white text-center py-2 rounded-md hover:bg-[#002255] transition-colors duration-300" 
+                    mobileUrl="https://booksy.com/en-us/573808_talent-barber-shop_barber-shop_22262_everett#ba_s=seo"
+                  />
                 </div>
               </motion.div>)}
           </motion.div>
