@@ -39,35 +39,35 @@ export function ServiceTabs() {
       id: 'regular',
       title: 'Regular Haircut',
       description: 'Classic haircut with clippers and scissors, includes neck shave.',
-      price: '$40',
+      price: '$45',
       duration: '45 min',
       image: "/regular haircut.png"
     }, {
       id: 'scissors',
       title: 'Classic Only Scissors',
       description: 'Traditional haircut using only scissors for a more textured look.',
-      price: '$40',
+      price: '$45',
       duration: '45 min',
       image: "/classic_scissors.jpg"
     }, {
       id: 'kids',
       title: 'Kids Haircut',
       description: 'Haircut for children, includes a lollipop and special kid-friendly chair.',
-      price: '$40',
+      price: '$45',
       duration: '45 min',
       image: "/kidscut.png"
     }, {
       id: 'skin-fade',
       title: 'Skin Fade or Bald Fade',
       description: 'Precision fade that gradually blends to skin, for a clean, modern look.',
-      price: '$45',
+      price: '$50',
       duration: '50 min',
       image: "/skin_fade.jpg"
     }, {
       id: 'taper-fade',
       title: 'Taper Fade or Blow Out',
       description: 'Gradual fade that leaves more length on the sides, or styled blow out.',
-      price: '$45',
+      price: '$50',
       duration: '45 min',
       image: "/taper fade.png"
     }, {
