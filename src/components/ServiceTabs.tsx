@@ -168,7 +168,7 @@ export function ServiceTabs() {
           </p>
           <div className="mt-4 mb-2 max-w-2xl mx-auto">
             <p className="text-sm text-gray-700">
-              <strong>Note:</strong> Walk-ins for haircuts are $45 and tapers are $50.
+              <strong>Note:</strong> Walk-in for regular haircuts are $45 and skin and taper fades are $50.
             </p>
           </div>
           <div className="w-24 h-1 bg-[#C0111F] mx-auto mt-4"></div>
